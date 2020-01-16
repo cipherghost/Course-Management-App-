@@ -1,0 +1,182 @@
+body{
+	background-image: url('images/debby-hudson-asviIGR3CPE-unsplash.jpg');
+	width:100%;
+	background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+.nav-item{
+	text-align: center;
+}
+
+
+.mr-auto{
+    margin: auto !important;
+}
+
+
+#myTableId1   {
+	color:white;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+}
+
+#myTableId2{
+	color:white;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+}
+#myTableId3{
+	color:white;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+}
+
+#myTableId4
+{
+	color:white;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+}
+
+
+a{
+	text-decoration: none;
+	color:white;
+	cursor: pointer;
+	display: block;
+
+}
+
+
+a:hover{
+	text-decoration: none;
+	color:white;
+}
+
+
+#addbtn{
+	background-color: transparent;
+}
+
+
+.dp1 {
+  display: none;
+}
+
+@media (max-width: 960px) {
+  nav ul     { display: none; }
+   .dp1 { display: inline-block; }
+
+}
+
+
+/*@media screen and (max-width: 500px) {
+	#rightMenu {
+	              width:50%;
+	              
+	           }
+
+}
+
+@media screen and (min-width: 500px) and (max-width: 1200px) {
+	#rightMenu { 
+		         width:40%;
+	             
+	           }
+
+}
+
+@media screen and (min-width: 1200px)  {
+	#rightMenu { 
+		         width:20%;
+	             
+	           }
+
+}*/
+
+#lb{
+	font-color:black;
+	text-align: center;
+	padding-top:20px;
+	margin-bottom:10px;
+
+}
+
+
+
+.navbar-dark .navbar-nav .active>.nav-link{
+	color: #020202;
+    border-radius: 15px;
+    background-color: #ced4da;
+    transition: color 2s;
+    transition: background 1s;
+}
+
+.nav-link{
+	margin:0.5rem;
+	font-family: 'Josefin Sans', sans-serif;
+	font-style: italic;
+	text-transform: uppercase;
+	color:white;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: black;
+    border-radius: 15px;
+    background-color: #ced4da;   
+    transition: background 1s,font-size 1s;
+    font-size:1.1rem;
+}
+
+#hamburger>img:hover{
+   height:40px;
+   
+}
+
+#closing>img:hover{
+	transition: transform 1s;
+	transform:rotate(360deg);
+}
+
+#addition>img:hover{
+	transition: transform 1s;
+	transform:rotate(180deg);
+}
+
+.navbar-brand{
+	font-family: 'Acme', sans-serif;
+	font-size: 1.5rem;
+}
+
+.sidebar-right{
+    height: 100%;
+    width: 0%;
+    position: fixed;
+    top:0;
+    right:0;
+    background-color:#111 ;
+    overflow-x: hidden;
+    color: white;
+    text-align: center;
+    transition: 0.5s;
+    z-index:1050;
+}
+
+.top-gem{
+    margin: 10px 10px;
+    width: 100%;
+    padding:1px 25px 1px 25px;
+}
