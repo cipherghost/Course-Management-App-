@@ -151,6 +151,7 @@
 
   </tbody>
 </table>
+      </div>
 
 <!-- leaderboard ends here -->
 
