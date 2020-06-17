@@ -26,3 +26,5 @@ Database consists of 4 tables with following structure :
 ## Setup
 Detailed guidelines for setting up the project can be viewed at [setup.md](https://github.com/poojayadav12/Course-Management-App-/blob/master/setup.md)
 
+## Screenshots
+Some [Screenshots](https://drive.google.com/drive/folders/1GiUzQHmuBCGxb9JLDUXmKtRyTX05FlGF) of my application. 
