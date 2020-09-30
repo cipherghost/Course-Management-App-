@@ -1,5 +1,5 @@
 # COURSE MANAGEMENT APP 
-### Tech Stack | PHP, CSS, JS
+
 ## Technologies used
 * HTML
 * CSS
